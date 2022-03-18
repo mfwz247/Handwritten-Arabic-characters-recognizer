@@ -1,5 +1,7 @@
 # Handwritten-Arabic-characters-recognizer
 Handwritten Arabic characters recognizer as an assessment
+Kaggle: https://www.kaggle.com/code/muhammadfawzy/handwritten-arabic-characters-recognizer
+
 used datasets = https://www.kaggle.com/datasets/mloey1/ahcd1
 Sources that helped me through the challenge :
 
